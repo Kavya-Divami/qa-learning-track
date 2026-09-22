@@ -1,0 +1,17 @@
+{
+  "name": "qa-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.2",
+    "allure": "^3.18.0",
+    "allure-commandline": "^2.46.1",
+    "allure-playwright": "^3.12.2"
+  }
+}
